@@ -54,3 +54,10 @@ header {
   margin: 0 20px;
 }
 /* /Main */
+
+/* Footer */
+footer {
+  height: 80px;
+  background-color: purple;
+}
+/* /Footer */
