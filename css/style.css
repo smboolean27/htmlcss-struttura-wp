@@ -47,10 +47,10 @@ header {
   float: left;
 }
 .col-left, .col-right {
-  width: calc(25% - 20px);
+  width: calc(20% - 20px);
 }
 .col-center {
-  width: 50%;
+  width: 60%;
   margin: 0 20px;
 }
 /* /Main */
