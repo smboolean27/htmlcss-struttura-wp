@@ -4,3 +4,15 @@
   padding: 0;
   box-sizing: border-box;
 }
+
+.page-container {
+  width: 80%;
+  margin: auto;
+}
+
+/* Header */
+header {
+  height: 150px;
+  background-color: pink;
+}
+/* /Header */
